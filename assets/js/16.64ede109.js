@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{331:function(t,n,s){"use strict";s.r(n);var i=s(14),l=Object(i.a)({},(function(){var t=this._self._c;return t("div",{staticClass:"content is-small"},[t("b-notification",{attrs:{closable:!1}},[this._t("text")],2)],1)}),[],!1,null,null,null);n.default=l.exports}}]);
